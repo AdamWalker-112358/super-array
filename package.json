@@ -1,0 +1,14 @@
+{
+  "name": "super-array",
+  "version": "1.0.0",
+  "description": "A super version of the built in Array class",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "keywords": [],
+  "author": "Adam Walker",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.7.0"
+  }
+}
